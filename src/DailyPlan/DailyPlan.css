@@ -1,0 +1,14 @@
+.daily-plan div {
+    height: 50px;
+    width: 200px;
+    box-shadow: 0 0 20px gray;
+    margin: 10px;
+}
+
+.daily-plan{
+    float:left;
+    height: 300px;
+    width: 250px;
+    box-shadow: 0 0 0;
+    margin-bottom: 20px;
+}
